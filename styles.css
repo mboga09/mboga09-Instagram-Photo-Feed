@@ -1,0 +1,40 @@
+body{
+	background: rgba(234, 234, 234);
+	margin:0;
+}
+header{
+	background: white;
+	padding: 15px;
+}
+header h1{
+	font-family: Arial, sans-serif;
+	margin:0;
+}
+div.post{
+	background: white;
+	margin-top: 35px;
+}
+div.post img{
+	width: 100%;
+}
+div.post p{
+	font-family: "Courier New", monospace;
+	padding: 10px;
+}
+div.post span{
+	font-family: "Courier New", monospace;
+	float: right;
+	display:table-cell;
+	vertical-align:middle;
+	padding: 25px;
+	color: gray;
+}
+div.post h2{
+	font-family:  Arial, sans-serif;
+	float: left;
+	margin-left: 10px;
+}
+div.wrapper{
+	width: 600px;
+	margin: auto;
+}
